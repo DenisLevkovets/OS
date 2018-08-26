@@ -1,0 +1,17 @@
+    1  whoami
+    2  hostname
+    3  sa
+    4  hostname
+    5  man whoami
+    6  man man
+    7  less
+    8  mkdir ~/week1
+    9  cd ~/week1
+   10  ls | grep gcc /usr/bin | sort -r -> week1/ex1.txt
+   11  ls | grep gcc /usr/bin | sort -r -> ~/week1/ex1.txt
+   12  ls /usr/bin | grep gcc | sort -r -> ~/week1/ex1.txt
+   13  ls
+   14  nano ex1.txt
+   15  head -n 3 < ex1.txt
+   16  tail -n 3 < ex1.txt
+   17  history > ex2.txt
