@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   1446	    568	      8	   2022	    7e6	main
