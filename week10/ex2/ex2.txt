@@ -1,0 +1,2 @@
+664807 /home/denis/week10/week01/file.txt
+/home/denis/week10/week01/file.txt
